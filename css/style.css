@@ -940,6 +940,13 @@ textarea.form-control {
     left: 0;
     z-index: 3;
 }
+
+.social-icon-box-style2 p{
+    font-size: 14px;
+    color: #fff;
+    font-weight: 600;
+    text-shadow: 2px 8px 6px rgb(0 0 0 / 10%), 0px -5px 35px rgb(255 255 255 / 12%);
+}
 .social-icons-style2 {
     background-color: #101a5f;
     background: linear-gradient(to right, #0072ff, #00c6ff);
